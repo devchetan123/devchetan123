@@ -1,4 +1,4 @@
-# Hi, I'm Chetan 👋🏾 👩🏾‍💻
+# Hi, I'm Chetan 👋 
 
  <img src="https://i.ibb.co/fp0JM0G/123git.png" height="300px" >
 I'm a MERN Developer who is Passionate about coding and strongly interested in obtaining a Software Developer position to work on enhancing the product experience. I enjoy working with ReactJS, Redux and CSS on the fronted, NodeJS and Express on the backend to build single page application.
