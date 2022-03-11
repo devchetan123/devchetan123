@@ -1,15 +1,18 @@
 ### Hey 👋🏽, I'm Chetan!<p align="left">
 
 <a href="https://www.linkedin.com/in/profileofchetan/">
-  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="chetan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/pwr_chetan/">
-  <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="chetan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/devchetan/">
-  <img align="left" alt="Aman's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="chetan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<!-- Hi, I'm Chetan, a MERN Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling. -->
+  <a href="https://devchetan.herokuapp.com/" >
+  <img align="left" alt="chetan's portfolio" width="22px" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"/>
+</a>
+    <!-- Hi, I'm Chetan, a MERN Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling. -->
 
 <br />
 <br />
