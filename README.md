@@ -9,12 +9,12 @@
 <a href="https://leetcode.com/devchetan/">
   <img align="left" alt="Aman's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
+<!-- Hi, I'm Chetan, a MERN Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling. -->
 
 <br />
 <br />
 
-Hi, I'm Chetan, a MERN Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
+I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested in obtaining a Software Developer position to work on enhancing the product experience. I enjoy working with ReactJS, Redux and CSS on the fronted, NodeJS and Express on the backend to build single page application.
 
   
 ### Talking about my Personal Stuffs:
