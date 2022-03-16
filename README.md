@@ -46,19 +46,16 @@ I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested
   
 <br />
 <br />
-    
-<br />
 
+  
+  ### Most Language Used:
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  
   
 ### GitHub status:
   
   ![Chetan's GitHub status](https://github-readme-stats.vercel.app/api?username=devchetan123&theme=dark&show_icons=true)
-  
-  <br />
-  
-### Most Language Used:
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
