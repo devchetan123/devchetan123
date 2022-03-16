@@ -46,6 +46,11 @@ I'm a MERN Developer 🚀 who is Passionate about coding and strongly interested
   
 <br />
 <br />
+    
+<br />
+<br />
+  
+  ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchetan123&theme=dark&show_icons=true)
 
 
 
