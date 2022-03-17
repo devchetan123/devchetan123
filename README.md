@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Chetan!<p align="left">
 
-<a href="https://www.linkedin.com/in/profileofchetan/">
+<a href="https://www.linkedin.com/in/profileofchetan/" target="_blank" >
   <img align="left" alt="chetan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/pwr_chetan/">
